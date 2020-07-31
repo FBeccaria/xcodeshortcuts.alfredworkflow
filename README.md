@@ -15,3 +15,6 @@ Environment Variables:
 
 1)  "**playgroundFolder**" : path to destination folder (defaults is: "**~/Desktop**")
 2)  "**xcodeVersion**" : version to use when creating new playgrounds (default is: "**Xcode**")
+
+
+also on Packal.org [here](http://www.packal.org/workflow/xcode-shortcuts)
